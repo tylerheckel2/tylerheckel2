@@ -30,6 +30,7 @@ I am a rising junior Computer Science student at Villanova University aspiring t
 ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-6B8E23?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-FFA500?style=for-the-badge&logo=lucid&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-3776AB?style=for-the-badge&logo=trello&logoColor=white)
+![Anchorpoint](https://img.shields.io/badge/Anchorpoint-00599C?style=for-the-badge&logo=anchorpoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Powerpoint](https://img.shields.io/badge/Powerpoint-CD5C5C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-00599C?style=for-the-badge&logo=microsoft-word&logoColor=white)
