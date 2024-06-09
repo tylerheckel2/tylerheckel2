@@ -8,7 +8,7 @@ I am a rising junior Computer Science student at Villanova University aspiring t
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-4B0082?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-CD5C5C?style=for-the-badge&logo=html5&logoColor=white)
 
 ## Software and Data Formats
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
