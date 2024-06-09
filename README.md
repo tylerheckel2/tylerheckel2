@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Tyler Heckel
 
-I am a rising junior computer science student at Villanova University aspiring to be a Software Engineer. I am currently working as a Game Developer Intern at Games for Love. I am also experienced in Web and Mobile App Development, as well as software testing.
+I am a rising junior computer science student at Villanova University aspiring to be a Software Engineer. I am currently working as a Game Developer Intern at Games for Love. Through my academic journey, peronsal projects, and other ventures I have also become experienced in Web Development, Mobile App Development, and Software Testing.
 
 <!---
 tylerheckel2/tylerheckel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
