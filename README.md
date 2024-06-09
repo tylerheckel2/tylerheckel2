@@ -13,7 +13,8 @@ I am a rising junior Computer Science student at Villanova University aspiring t
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React%20Native-blue)
+
 
 <!---
 tylerheckel2/tylerheckel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
