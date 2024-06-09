@@ -2,7 +2,7 @@
 
 I am a rising junior Computer Science student at Villanova University aspiring to be a Software Engineer. I am currently working as a Game Developer Intern at Games for Love. Through my academic journey, personal projects, and other ventures I have also become experienced in Web Development, Mobile App Development, and Software Testing.
 
-## Programming Languages
+## Programming Languages:
 ![Java](https://img.shields.io/badge/Java-CD5C5C?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -12,7 +12,7 @@ I am a rising junior Computer Science student at Villanova University aspiring t
 ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white)
 
 
-## Software and Data Formats
+## Software and Data Formats:
 ![Git](https://img.shields.io/badge/Git-CD5C5C?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-483D8B?style=for-the-badge&logo=eclipse&logoColor=white)
