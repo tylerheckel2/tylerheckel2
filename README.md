@@ -36,7 +36,7 @@ I am a rising junior Computer Science student at Villanova University aspiring t
 ![Word](https://img.shields.io/badge/Word-00599C?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ## Connect:
-[![Handshake: Tyler Heckel](https://img.shields.io/badge/-Handshake-FFFF00?style=flat-square&logo=handshake&logoColor=white&link=https://villanova.joinhandshake.com/stu/users/40794812)](https://villanova.joinhandshake.com/stu/users/40794812) | [![GitHub Tyler](https://img.shields.io/github/followers/tylerheckel2?label=follow&style=social)](https://github.com/tylerheckel2)
+[![Handshake: Tyler Heckel](https://img.shields.io/badge/-Handshake-FFFF00?style=flat-square&logo=handshake&logoColor=white&link=https://villanova.joinhandshake.com/stu/users/40794812)](https://villanova.joinhandshake.com/stu/users/40794812) | [![Tyler Heckel Portfolio](https://img.shields.io/badge/-Portfolio-00599C?style=flat-square&logo=&logoColor=white&link=https://tylerheckelportfolio.netlify.app/)](https://tylerheckelportfolio.netlify.app/) | [![GitHub Tyler](https://img.shields.io/github/followers/tylerheckel2?label=follow&style=social)](https://github.com/tylerheckel2)
 
 <!---
 tylerheckel2/tylerheckel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
