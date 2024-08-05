@@ -34,6 +34,7 @@ I am a rising junior Computer Science student at Villanova University aspiring t
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Powerpoint](https://img.shields.io/badge/Powerpoint-CD5C5C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-00599C?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![WebGL](https://img.shields.io/badge/webgl-00BFFF?style=for-the-badge&logo=webgl&logoColor=white)
 
 ## Connect:
 [![LinkedIn: Tyler Heckel](https://img.shields.io/badge/-LinkedIn-00599C?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-heckel-1434b52b4/)](https://www.linkedin.com/in/tyler-heckel-1434b52b4/) | [![Handshake: Tyler Heckel](https://img.shields.io/badge/-Handshake-FFFF00?style=flat-square&logo=handshake&logoColor=white&link=https://villanova.joinhandshake.com/stu/users/40794812)](https://villanova.joinhandshake.com/stu/users/40794812) | [![Tyler Heckel Portfolio](https://img.shields.io/badge/-Portfolio-00599C?style=flat-square&logo=&logoColor=white&link=https://tylerheckelportfolio.netlify.app/)](https://tylerheckelportfolio.netlify.app/) | [![Tyler Heckel Itch.io](https://img.shields.io/badge/-Itch.io-CD5C5C?style=flat-square&logo=Itch.io&logoColor=white&link=https://tylerheckel2.itch.io/)](https://tylerheckel2.itch.io/) | [![GitHub Tyler](https://img.shields.io/github/followers/tylerheckel2?label=follow&style=social)](https://github.com/tylerheckel2)
