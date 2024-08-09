@@ -1,6 +1,6 @@
 # Hello, I’m Tyler Heckel
 
-I am a rising junior Computer Science student at Villanova University aspiring to be a Software Engineer. I am currently working as a Game Developer Intern at Games for Love. Through my academic journey, personal projects, and other ventures I have also become experienced in Web Development, Mobile App Development, and Software Testing.
+I am a rising junior Computer Science student at Villanova University aspiring to be a Software Engineer. I am currently working as a Game Developer Intern at Games for Love. Through my academic journey, personal projects, and other ventures I have also become experienced in Web Development, Mobile App Development, Software Testing, and Data Analytics.
 
 ## Programming Languages:
 ![Java](https://img.shields.io/badge/Java-CD5C5C?style=for-the-badge&logo=java&logoColor=white)
