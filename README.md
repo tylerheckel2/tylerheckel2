@@ -32,6 +32,7 @@ I am a Junior Computer Science Student at Villanova University aspiring to be a 
 ![Trello](https://img.shields.io/badge/Trello-3776AB?style=for-the-badge&logo=trello&logoColor=white)
 ![Anchorpoint](https://img.shields.io/badge/Anchorpoint-00599C?style=for-the-badge&logo=anchorpoint&logoColor=white)
 ![WebGL](https://img.shields.io/badge/webgl-00BFFF?style=for-the-badge&logo=webgl&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FFA500?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Powerpoint](https://img.shields.io/badge/Powerpoint-CD5C5C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-00599C?style=for-the-badge&logo=microsoft-word&logoColor=white)
