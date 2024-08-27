@@ -20,7 +20,7 @@ I am a Junior Computer Science Student at Villanova University aspiring to be a 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Linux/Unix](https://img.shields.io/badge/Linux/Unix-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
