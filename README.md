@@ -1,6 +1,6 @@
 # Hello, I’m Tyler Heckel
 
-I am a Rising Senior Computer Science Student at Villanova University aspiring to be a Software Engineer. I have experience working as a Game Developer Intern at Games for Love and a Cyber Security Intern at TRANZACT. Through my academic journey, personal projects, and other ventures I have become experienced in Web Development, Mobile App Development, Game Development, Software Testing, Data Analytics, Cybersecurity, Market Research, Customer Acquisition, Prototyping, and Project Management.
+I am a Rising Senior Computer Science Student at Villanova University aspiring to be a Software Engineer. I have experience working as a Game Developer Intern at Games for Love and an Information & Cyber Security Intern at TRANZACT. Through my academic journey, personal projects, and other ventures I have become experienced in Web Development, Mobile App Development, Game Development, Software Testing, Data Analytics, Cybersecurity, Market Research, Customer Acquisition, Prototyping, and Project Management.
 ## Programming Languages:
 ![Java](https://img.shields.io/badge/Java-CD5C5C?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -9,6 +9,8 @@ I am a Rising Senior Computer Science Student at Villanova University aspiring t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-CD5C5C?style=for-the-badge&logo=html5&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-920603?style=for-the-badge&logo=Ruby&logoColor=white)
 
 
 ## Software and Data Formats:
@@ -35,6 +37,8 @@ I am a Rising Senior Computer Science Student at Villanova University aspiring t
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-00599C?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-00BFFF?style=for-the-badge&logo=webflow&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-E3242B?style=for-the-badge&logo=Figma&logoColor=white)
+![Archer](https://img.shields.io/badge/Archer-00BFFF?style=for-the-badge&logo=Archer&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Powerpoint](https://img.shields.io/badge/Powerpoint-CD5C5C?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-00599C?style=for-the-badge&logo=microsoft-word&logoColor=white)
