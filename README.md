@@ -13,7 +13,7 @@ I am a Senior Computer Science Student at Villanova University aspiring to be a 
 ![Ruby](https://img.shields.io/badge/Ruby-920603?style=for-the-badge&logo=Ruby&logoColor=white)
 
 
-## Software and Data Formats:
+## Software Tools and Frameworks:
 ![Git](https://img.shields.io/badge/Git-CD5C5C?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-483D8B?style=for-the-badge&logo=eclipse&logoColor=white)
