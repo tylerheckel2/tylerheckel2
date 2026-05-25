@@ -1,6 +1,6 @@
 # Hello, I’m Tyler Heckel
 
-I am a Senior Computer Science Student at Villanova University aspiring to be a Software Engineer. I have experience working as a Game Developer Intern at Games for Love and an Information & Cyber Security Intern at TRANZACT. Through my academic journey, personal projects, and other ventures I have become experienced in Web Development, Mobile App Development, Game Development, Software Testing, Data Analytics, Cybersecurity, Market Research, Customer Acquisition, Prototyping, and Project Management.
+I am a graduate from Villanova University with a Bachelor of Science in Computer Science. I have experience working as a Game Developer Intern at Games for Love and an Information & Cyber Security Intern at TRANZACT. Through my academic journey, personal projects, and other ventures I have become experienced in Web Development, Mobile App Development, Game Development, Machine Learning, Software Testing, Data Analytics, Cybersecurity, Market Research, Customer Acquisition, Prototyping, and Project Management.
 ## Programming Languages:
 ![Java](https://img.shields.io/badge/Java-CD5C5C?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
